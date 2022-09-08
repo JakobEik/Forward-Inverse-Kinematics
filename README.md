@@ -25,7 +25,8 @@ This project was divided into four tasks of which are summarized below. The comp
 
 ## Inverse Kinematics for the Agilus robot
 ### Elbow Up
-![](https://user-images.githubusercontent.com/75979776/189199586-1925bd48-02be-4c76-8026-6d3bce2c0f28.png")
+
+![](https://user-images.githubusercontent.com/75979776/189199586-1925bd48-02be-4c76-8026-6d3bce2c0f28.png)
 
 
 ### Elbow Down
