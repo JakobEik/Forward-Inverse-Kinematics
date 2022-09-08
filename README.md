@@ -11,12 +11,24 @@ This project was divided into four tasks of which are summarized below. The comp
 
 ## Forward Kinematics for the Agilus robot
 
-![](2022-09-08-20-23-27.png)
+<p align="center">
+  <img width="600" alt="AgilusRobot" src="https://user-images.githubusercontent.com/75979776/189198472-f65e16b2-d90d-4c35-b2e8-935be078e56a.png">
+<p/>
 
-## Using the DH-convention
+### Using the DH-convention
 
-![](2022-09-08-20-24-47.png)
+![dh_fk_demo](https://user-images.githubusercontent.com/75979776/189198850-8fe2d902-ff37-4353-9de8-ed13312e3dec.png)
 
-## Using the PoE-convention
+### Using the PoE-convention
 
-![](2022-09-08-20-26-10.png)
+![poe_fk_demo](https://user-images.githubusercontent.com/75979776/189198960-8808b4a7-2794-436c-9f23-5adef21172ad.png)
+
+## Analytical Inverse Kinematics for the Agilus robot
+### Elbow Up
+
+![](https://user-images.githubusercontent.com/75979776/189199586-1925bd48-02be-4c76-8026-6d3bce2c0f28.png)
+
+
+### Elbow Down
+
+![](https://user-images.githubusercontent.com/75979776/189199689-69919e67-6c3f-4973-a999-f329f90f305c.png)
