@@ -1,4 +1,5 @@
-# TPK4170-Group-Assignment
+# Forward-and-Inverse-Kinematics
+
 
 This project was divided into four tasks of which are summarized below. The complete report can be found in the report folder
 
