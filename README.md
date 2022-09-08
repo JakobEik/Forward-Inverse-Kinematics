@@ -23,3 +23,10 @@ This project was divided into four tasks of which are summarized below. The comp
 
 ![poe_fk_demo](https://user-images.githubusercontent.com/75979776/189198960-8808b4a7-2794-436c-9f23-5adef21172ad.png)
 
+## Inverse Kinematics for the Agilus robot
+### Elbow Up
+<img width="985" alt="ElbowUVisual" src="https://user-images.githubusercontent.com/75979776/189199586-1925bd48-02be-4c76-8026-6d3bce2c0f28.png">
+
+### Elbow Down
+
+<img width="977" alt="ElbowDVisual" src="https://user-images.githubusercontent.com/75979776/189199689-69919e67-6c3f-4973-a999-f329f90f305c.png">
