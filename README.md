@@ -11,7 +11,8 @@ This project was divided into four tasks of which are summarized below. The comp
 
 ## Forward Kinematics for the Agilus robot
 
-![](2022-09-08-20-23-27.png)
+<img width="937" alt="AgilusRobot" src="https://user-images.githubusercontent.com/75979776/189198472-f65e16b2-d90d-4c35-b2e8-935be078e56a.png">
+
 
 ## Using the DH-convention
 
